@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-22T05:58:33.031Z",
+  "generated_at": "2026-06-23T05:04:03.592Z",
   "period": "monthly",
   "window_start": "2026-06-01T00:00:00.000Z",
-  "window_end": "2026-06-22T05:58:33.031Z",
+  "window_end": "2026-06-23T05:04:03.592Z",
   "month_label": "June 2026",
   "month_key": "2026-06",
   "total_contributors": 10,
@@ -54,7 +54,7 @@
         "issue_comments": 0,
         "issue_comments_total": 0
       },
-      "lastActiveDays": 3
+      "lastActiveDays": 1
     },
     {
       "rank": 2,
@@ -104,7 +104,7 @@
         "issue_comments": 3,
         "issue_comments_total": 3
       },
-      "lastActiveDays": 3
+      "lastActiveDays": 4
     },
     {
       "rank": 3,
@@ -116,7 +116,7 @@
       "totalPRs": 6,
       "totalPRReviewsGiven": 0,
       "totalCodeReviewComments": 0,
-      "totalIssuesOpened": 8,
+      "totalIssuesOpened": 11,
       "totalIssueComments": 0,
       "avgCommitsPerPR": 9.83,
       "projectsWorkingOn": 1,
@@ -129,16 +129,16 @@
         "medium": 0,
         "large": 6
       },
-      "total_score": 201,
+      "total_score": 205,
       "code_score": 169,
-      "community_score": 26,
+      "community_score": 30,
       "quality_score": 6,
       "score_breakdown": {
         "pr_score": 51,
         "commits_score": 118,
         "pr_reviews_score": 0,
         "code_comments_score": 0,
-        "issues_opened_score": 16,
+        "issues_opened_score": 20,
         "issue_comments_score": 0,
         "projects_score": 10,
         "tests_score": 0,
@@ -148,8 +148,8 @@
         "impact_bonus_score": 0
       },
       "capped_counts": {
-        "issues_opened": 8,
-        "issues_total": 8,
+        "issues_opened": 10,
+        "issues_total": 11,
         "issue_comments": 0,
         "issue_comments_total": 0
       },
@@ -203,7 +203,7 @@
         "issue_comments": 0,
         "issue_comments_total": 0
       },
-      "lastActiveDays": 4
+      "lastActiveDays": 5
     },
     {
       "rank": 5,
@@ -215,12 +215,13 @@
       "totalPRs": 1,
       "totalPRReviewsGiven": 0,
       "totalCodeReviewComments": 0,
-      "totalIssuesOpened": 7,
+      "totalIssuesOpened": 9,
       "totalIssueComments": 0,
       "avgCommitsPerPR": 1,
-      "projectsWorkingOn": 1,
-      "newProjectsThisMonth": 1,
+      "projectsWorkingOn": 2,
+      "newProjectsThisMonth": 2,
       "projects": [
+        "MonoDog",
         "gpx"
       ],
       "prs_by_complexity": {
@@ -228,18 +229,18 @@
         "medium": 0,
         "large": 1
       },
-      "total_score": 35,
+      "total_score": 49,
       "code_score": 11,
-      "community_score": 24,
+      "community_score": 38,
       "quality_score": 0,
       "score_breakdown": {
         "pr_score": 9,
         "commits_score": 2,
         "pr_reviews_score": 0,
         "code_comments_score": 0,
-        "issues_opened_score": 14,
+        "issues_opened_score": 18,
         "issue_comments_score": 0,
-        "projects_score": 10,
+        "projects_score": 20,
         "tests_score": 0,
         "docs_score": 0,
         "mentor_score": 0,
@@ -247,12 +248,12 @@
         "impact_bonus_score": 0
       },
       "capped_counts": {
-        "issues_opened": 7,
-        "issues_total": 7,
+        "issues_opened": 9,
+        "issues_total": 9,
         "issue_comments": 0,
         "issue_comments_total": 0
       },
-      "lastActiveDays": 4
+      "lastActiveDays": 1
     },
     {
       "rank": 6,
@@ -301,7 +302,7 @@
         "issue_comments": 0,
         "issue_comments_total": 0
       },
-      "lastActiveDays": 4
+      "lastActiveDays": 0
     },
     {
       "rank": 7,
@@ -350,7 +351,7 @@
         "issue_comments": 0,
         "issue_comments_total": 0
       },
-      "lastActiveDays": 3
+      "lastActiveDays": 4
     },
     {
       "rank": 8,
@@ -399,7 +400,7 @@
         "issue_comments": 0,
         "issue_comments_total": 0
       },
-      "lastActiveDays": 3
+      "lastActiveDays": 1
     },
     {
       "rank": 9,
@@ -448,7 +449,7 @@
         "issue_comments": 0,
         "issue_comments_total": 0
       },
-      "lastActiveDays": 10
+      "lastActiveDays": 11
     },
     {
       "rank": 10,
@@ -497,7 +498,7 @@
         "issue_comments": 0,
         "issue_comments_total": 0
       },
-      "lastActiveDays": 21
+      "lastActiveDays": 22
     }
   ]
 }
