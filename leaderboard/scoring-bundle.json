@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T04:46:21.099Z",
+  "generated_at": "2026-07-07T04:46:10.092Z",
   "scoring_weights": {
     "COMMIT": 2,
     "PR_REVIEW_GIVEN": 3,
@@ -21,7 +21,7 @@
       "id": 155735575,
       "avatar_url": "https://avatars.githubusercontent.com/u/155735575?v=4",
       "html_url": "https://github.com/anandmindfire",
-      "lastActiveDays": 2,
+      "lastActiveDays": 3,
       "commits": [
         "2024-08-21T09:32:02Z",
         "2024-08-21T06:22:58Z",
@@ -6044,7 +6044,7 @@
       "id": 253717200,
       "avatar_url": "https://avatars.githubusercontent.com/u/253717200?v=4",
       "html_url": "https://github.com/ipsitam-07",
-      "lastActiveDays": 3,
+      "lastActiveDays": 1,
       "commits": [
         "2026-05-25T10:35:51Z",
         "2026-05-25T10:02:51Z",
@@ -6466,6 +6466,11 @@
         "2026-03-17T08:07:58Z",
         "2026-03-17T08:07:09Z",
         "2026-03-16T11:28:28Z",
+        "2026-07-06T10:45:13Z",
+        "2026-07-06T10:41:59Z",
+        "2026-07-06T10:31:55Z",
+        "2026-07-06T10:31:24Z",
+        "2026-07-03T12:18:04Z",
         "2026-07-03T11:25:08Z",
         "2026-07-03T11:19:30Z",
         "2026-07-03T11:13:58Z",
@@ -6971,6 +6976,14 @@
           "pts": 9,
           "c": "large",
           "zr": false,
+          "t": false,
+          "doc": false
+        },
+        {
+          "d": "2026-07-06T10:42:00Z",
+          "pts": 9,
+          "c": "large",
+          "zr": true,
           "t": false,
           "doc": false
         },
@@ -7481,7 +7494,7 @@
       "id": 193932396,
       "avatar_url": "https://avatars.githubusercontent.com/u/193932396?v=4",
       "html_url": "https://github.com/ParasMindfire",
-      "lastActiveDays": 11,
+      "lastActiveDays": 12,
       "commits": [
         "2025-06-27T07:51:24Z",
         "2025-06-27T07:47:28Z",
@@ -8757,6 +8770,12 @@
       "html_url": "https://github.com/Rituparna158",
       "lastActiveDays": null,
       "commits": [
+        "2026-07-06T10:18:24Z",
+        "2026-07-06T06:57:42Z",
+        "2026-07-05T15:16:58Z",
+        "2026-07-05T15:09:59Z",
+        "2026-07-05T08:29:38Z",
+        "2026-07-03T12:08:59Z",
         "2026-07-03T11:04:26Z",
         "2026-07-03T10:58:51Z",
         "2026-07-03T10:19:52Z",
@@ -9202,6 +9221,30 @@
         "2026-04-15T11:22:00Z"
       ],
       "prs": [
+        {
+          "d": "2026-07-06T10:31:55Z",
+          "pts": 7,
+          "c": "medium",
+          "zr": true,
+          "t": false,
+          "doc": false
+        },
+        {
+          "d": "2026-07-06T10:31:25Z",
+          "pts": 9,
+          "c": "large",
+          "zr": true,
+          "t": false,
+          "doc": false
+        },
+        {
+          "d": "2026-07-03T12:18:04Z",
+          "pts": 5,
+          "c": "small",
+          "zr": true,
+          "t": false,
+          "doc": false
+        },
         {
           "d": "2026-07-03T11:13:58Z",
           "pts": 7,
@@ -11426,7 +11469,7 @@
       "id": 193920163,
       "avatar_url": "https://avatars.githubusercontent.com/u/193920163?v=4",
       "html_url": "https://github.com/sanghamitradash021",
-      "lastActiveDays": 11,
+      "lastActiveDays": 12,
       "commits": [
         "2026-05-27T08:04:30Z",
         "2026-05-27T07:20:30Z",
@@ -13896,7 +13939,7 @@
       "id": 115465143,
       "avatar_url": "https://avatars.githubusercontent.com/u/115465143?v=4",
       "html_url": "https://github.com/saradab-mindfire",
-      "lastActiveDays": 24,
+      "lastActiveDays": 25,
       "commits": [
         "2026-06-01T15:15:38Z",
         "2026-06-01T15:11:15Z",
@@ -19357,7 +19400,7 @@
       "id": 78857337,
       "avatar_url": "https://avatars.githubusercontent.com/u/78857337?v=4",
       "html_url": "https://github.com/Prarthanaxdev",
-      "lastActiveDays": 20,
+      "lastActiveDays": 21,
       "commits": [
         "2026-05-13T10:01:26Z",
         "2026-05-08T16:14:56Z",
@@ -20394,7 +20437,7 @@
       "id": 220164293,
       "avatar_url": "https://avatars.githubusercontent.com/u/220164293?v=4",
       "html_url": "https://github.com/uzerjamal-mfsi",
-      "lastActiveDays": 11,
+      "lastActiveDays": 12,
       "commits": [
         "2026-05-19T13:25:28Z",
         "2026-05-19T12:21:33Z",
@@ -23792,7 +23835,7 @@
       "id": 235709046,
       "avatar_url": "https://avatars.githubusercontent.com/u/235709046?v=4",
       "html_url": "https://github.com/yogeshsmindfire",
-      "lastActiveDays": 4,
+      "lastActiveDays": 5,
       "commits": [
         "2026-03-24T06:20:17Z"
       ],
@@ -24331,6 +24374,40 @@
           "d": "2019-09-17T14:00:45Z",
           "title": "Extension Methods",
           "firstMonthKey": "2019-09"
+        }
+      ]
+    },
+    "prakhartripath0001": {
+      "id": 110407222,
+      "avatar_url": "https://avatars.githubusercontent.com/u/110407222?v=4",
+      "html_url": "https://github.com/prakhartripath0001",
+      "lastActiveDays": 4,
+      "commits": [
+        "2026-07-03T17:49:21Z",
+        "2026-07-03T17:39:27Z",
+        "2026-07-03T17:28:03Z"
+      ],
+      "prs": [
+        {
+          "d": "2026-07-06T10:31:27Z",
+          "pts": 9,
+          "c": "large",
+          "zr": true,
+          "t": false,
+          "doc": false
+        }
+      ],
+      "reviews": [],
+      "codeComments": [],
+      "issues": [],
+      "issueComments": [
+        "2026-07-03T17:22:51Z"
+      ],
+      "projectFirsts": [
+        {
+          "d": "2026-07-03T17:28:03Z",
+          "title": "Ignix-lite",
+          "firstMonthKey": "2026-07"
         }
       ]
     },
