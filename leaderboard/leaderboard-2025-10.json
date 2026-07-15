@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T03:46:48.797Z",
+  "generated_at": "2026-07-15T03:46:18.728Z",
   "period": "monthly",
   "month_label": "October 2025",
   "month_key": "2025-10",
@@ -545,7 +545,7 @@
         "issue_comments": 1,
         "issue_comments_total": 1
       },
-      "lastActiveDays": 19
+      "lastActiveDays": 20
     },
     {
       "rank": 12,
