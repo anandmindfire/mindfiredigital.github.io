@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-20T04:31:44.144Z",
+  "generated_at": "2026-07-21T03:58:31.647Z",
   "period": "monthly",
   "window_start": "2026-07-01T00:00:00.000Z",
-  "window_end": "2026-07-20T04:31:44.144Z",
+  "window_end": "2026-07-21T03:58:31.647Z",
   "month_label": "July 2026",
   "month_key": "2026-07",
   "total_contributors": 14,
@@ -106,7 +106,7 @@
         "issue_comments": 0,
         "issue_comments_total": 0
       },
-      "lastActiveDays": 4
+      "lastActiveDays": 5
     },
     {
       "rank": 3,
@@ -217,22 +217,23 @@
       "totalPRs": 8,
       "totalPRReviewsGiven": 0,
       "totalCodeReviewComments": 0,
-      "totalIssuesOpened": 12,
+      "totalIssuesOpened": 13,
       "totalIssueComments": 0,
       "avgCommitsPerPR": 1,
-      "projectsWorkingOn": 1,
-      "newProjectsThisMonth": 0,
+      "projectsWorkingOn": 2,
+      "newProjectsThisMonth": 1,
       "projects": [
-        "MonoDog"
+        "MonoDog",
+        "gpx"
       ],
       "prs_by_complexity": {
         "small": 0,
         "medium": 0,
         "large": 8
       },
-      "total_score": 104,
+      "total_score": 114,
       "code_score": 84,
-      "community_score": 20,
+      "community_score": 30,
       "quality_score": 0,
       "score_breakdown": {
         "pr_score": 68,
@@ -241,7 +242,7 @@
         "code_comments_score": 0,
         "issues_opened_score": 20,
         "issue_comments_score": 0,
-        "projects_score": 0,
+        "projects_score": 10,
         "tests_score": 0,
         "docs_score": 0,
         "mentor_score": 0,
@@ -250,11 +251,11 @@
       },
       "capped_counts": {
         "issues_opened": 10,
-        "issues_total": 12,
+        "issues_total": 13,
         "issue_comments": 0,
         "issue_comments_total": 0
       },
-      "lastActiveDays": 3
+      "lastActiveDays": null
     },
     {
       "rank": 6,
@@ -303,7 +304,7 @@
         "issue_comments": 0,
         "issue_comments_total": 0
       },
-      "lastActiveDays": 5
+      "lastActiveDays": 6
     },
     {
       "rank": 7,
@@ -352,7 +353,7 @@
         "issue_comments": 0,
         "issue_comments_total": 0
       },
-      "lastActiveDays": 14
+      "lastActiveDays": 15
     },
     {
       "rank": 8,
@@ -401,7 +402,7 @@
         "issue_comments": 1,
         "issue_comments_total": 1
       },
-      "lastActiveDays": 17
+      "lastActiveDays": 18
     },
     {
       "rank": 9,
@@ -450,7 +451,7 @@
         "issue_comments": 0,
         "issue_comments_total": 0
       },
-      "lastActiveDays": 12
+      "lastActiveDays": 13
     },
     {
       "rank": 10,
@@ -548,7 +549,7 @@
         "issue_comments": 0,
         "issue_comments_total": 0
       },
-      "lastActiveDays": 6
+      "lastActiveDays": 7
     },
     {
       "rank": 12,
@@ -646,7 +647,7 @@
         "issue_comments": 0,
         "issue_comments_total": 0
       },
-      "lastActiveDays": 5
+      "lastActiveDays": 6
     },
     {
       "rank": 14,
@@ -693,7 +694,7 @@
         "issue_comments": 1,
         "issue_comments_total": 1
       },
-      "lastActiveDays": 5
+      "lastActiveDays": 6
     }
   ]
 }
