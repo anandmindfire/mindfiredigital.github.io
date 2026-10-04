@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T06:32:36.785Z",
+  "generated_at": "2026-10-04T07:03:29.820Z",
   "scoring_weights": {
     "COMMIT": 2,
     "PR_REVIEW_GIVEN": 3,
@@ -21,7 +21,7 @@
       "id": 155735575,
       "avatar_url": "https://avatars.githubusercontent.com/u/155735575?v=4",
       "html_url": "https://github.com/anandmindfire",
-      "lastActiveDays": 4,
+      "lastActiveDays": 5,
       "commits": [
         "2024-08-21T09:32:02Z",
         "2024-08-21T06:22:58Z",
@@ -6601,7 +6601,7 @@
       "id": 253717200,
       "avatar_url": "https://avatars.githubusercontent.com/u/253717200?v=4",
       "html_url": "https://github.com/ipsitam-07",
-      "lastActiveDays": 18,
+      "lastActiveDays": 19,
       "commits": [
         "2026-09-14T06:29:16Z",
         "2026-09-14T06:15:50Z",
@@ -11145,7 +11145,7 @@
       "id": 253200638,
       "avatar_url": "https://avatars.githubusercontent.com/u/253200638?v=4",
       "html_url": "https://github.com/ansumanmindfire",
-      "lastActiveDays": 30,
+      "lastActiveDays": null,
       "commits": [
         "2026-08-03T06:58:05Z",
         "2026-08-03T06:53:48Z",
@@ -11792,7 +11792,7 @@
       "id": 253181559,
       "avatar_url": "https://avatars.githubusercontent.com/u/253181559?v=4",
       "html_url": "https://github.com/sobhan-s",
-      "lastActiveDays": 30,
+      "lastActiveDays": null,
       "commits": [
         "2026-05-25T13:03:36Z",
         "2026-05-22T15:11:16Z",
@@ -22345,7 +22345,7 @@
       "id": 248417800,
       "avatar_url": "https://avatars.githubusercontent.com/u/248417800?v=4",
       "html_url": "https://github.com/bighneswar-mindfire",
-      "lastActiveDays": 19,
+      "lastActiveDays": 20,
       "commits": [
         "2026-09-11T06:43:08Z",
         "2026-09-10T12:44:57Z",
@@ -24009,7 +24009,7 @@
       "id": 118360815,
       "avatar_url": "https://avatars.githubusercontent.com/u/118360815?v=4",
       "html_url": "https://github.com/asishmindfire",
-      "lastActiveDays": 26,
+      "lastActiveDays": 27,
       "commits": [
         "2023-09-04T10:45:48Z",
         "2023-08-24T11:05:39Z",
