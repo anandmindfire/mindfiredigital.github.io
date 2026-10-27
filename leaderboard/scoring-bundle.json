@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T05:57:30.894Z",
+  "generated_at": "2026-10-27T06:19:00.984Z",
   "scoring_weights": {
     "COMMIT": 2,
     "PR_REVIEW_GIVEN": 3,
@@ -21,7 +21,7 @@
       "id": 155735575,
       "avatar_url": "https://avatars.githubusercontent.com/u/155735575?v=4",
       "html_url": "https://github.com/anandmindfire",
-      "lastActiveDays": 27,
+      "lastActiveDays": 28,
       "commits": [
         "2024-08-21T09:32:02Z",
         "2024-08-21T06:22:58Z",
@@ -6601,7 +6601,7 @@
       "id": 253717200,
       "avatar_url": "https://avatars.githubusercontent.com/u/253717200?v=4",
       "html_url": "https://github.com/ipsitam-07",
-      "lastActiveDays": 11,
+      "lastActiveDays": 12,
       "commits": [
         "2026-10-15T09:45:41Z",
         "2026-10-15T06:40:51Z",
@@ -7316,14 +7316,6 @@
         },
         {
           "d": "2026-08-20T09:51:54Z",
-          "pts": 9,
-          "c": "large",
-          "zr": true,
-          "t": false,
-          "doc": false
-        },
-        {
-          "d": "2026-08-18T16:36:51Z",
           "pts": 9,
           "c": "large",
           "zr": true,
@@ -8194,7 +8186,7 @@
       "id": 253198538,
       "avatar_url": "https://avatars.githubusercontent.com/u/253198538?v=4",
       "html_url": "https://github.com/Rituparna158",
-      "lastActiveDays": 3,
+      "lastActiveDays": 0,
       "commits": [
         "2026-09-15T10:12:32Z",
         "2026-09-15T09:26:37Z",
@@ -11826,7 +11818,7 @@
       "id": 253181559,
       "avatar_url": "https://avatars.githubusercontent.com/u/253181559?v=4",
       "html_url": "https://github.com/sobhan-s",
-      "lastActiveDays": 3,
+      "lastActiveDays": 4,
       "commits": [
         "2026-05-25T13:03:36Z",
         "2026-05-22T15:11:16Z",
@@ -22074,7 +22066,7 @@
       "id": 248417800,
       "avatar_url": "https://avatars.githubusercontent.com/u/248417800?v=4",
       "html_url": "https://github.com/bighneswar-mindfire",
-      "lastActiveDays": 3,
+      "lastActiveDays": 4,
       "commits": [
         "2026-09-16T06:01:01Z",
         "2026-09-15T18:33:44Z",
